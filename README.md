@@ -2,7 +2,7 @@
 
 Bienvenido a nuestra **Plataforma de Análisis de Datos en Línea**, diseñada para facilitar la visualización, manipulación y análisis de datos en formato CSV. Con esta herramienta, podrás cargar tus archivos CSV y realizar análisis detallados para extraer información valiosa de manera intuitiva y eficiente.
 
-![Análisis de Datos](https://via.placeholder.com/1200x400?text=Análisis+de+Datos+en+Tiempo+Real)  
+![Análisis de Datos](https://media.istockphoto.com/id/1979289147/es/foto/ciencia-del-an%C3%A1lisis-de-datos-y-big-data-con-tecnolog%C3%ADa-de-ia-el-analista-o-cient%C3%ADfico-utiliza.webp?s=2048x2048&w=is&k=20&c=BiaRDYXssFd4WrWB1F8PqlJKVdVi77K9zpClepZKu_o=)  
 
 ---
 
